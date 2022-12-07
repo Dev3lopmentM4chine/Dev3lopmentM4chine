@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Dev3lopmentM4chine">
-  <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev3lopmentM4chine&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev3lopmentM4chine&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img style="display: inline_block" height="100em" src="https://github-readme-stats.vercel.app/api?username=Dev3lopmentM4chine&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img style="display: inline_block" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev3lopmentM4chine&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div> 
   
 <div style="display: inline_block" align="center">

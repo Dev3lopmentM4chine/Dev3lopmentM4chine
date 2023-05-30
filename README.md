@@ -35,6 +35,7 @@
 </a> 
  
 ![Snake animation](https://github.com/Dev3lopmentM4chine/Dev3lopmentM4chine/blob/output/github-contribution-grid-snake.svg) 
+ <img src="https://komarev.com/ghpvc/?username=Dev3lopmentM4chine" alt="https://github.com/Dev3lopmentM4chine" />
 </div>
   
 ##
